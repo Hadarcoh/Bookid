@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "1058132847806",
+    "firebase_url": "https://bookid-ca15f.firebaseio.com",
+    "project_id": "bookid-ca15f",
+    "storage_bucket": "bookid-ca15f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058132847806:android:074610b6fa86b978",
+        "android_client_info": {
+          "package_name": "com.google.android.gms.samples.vision.ocrreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058132847806-u1idpp8251ghe9ak9uf4jvt1ons9k2pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmOEZ3BxaW0FC0M1vvGR-fsxMvvIvl6jY"
+        },
+        {
+          "current_key": "AIzaSyBmOEZ3BxaW0FC0M1vvGR-fsxMvvIvl6jY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
